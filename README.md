@@ -79,3 +79,9 @@ Integration tests cover the full hold-confirm-cancel path, price/refund calculat
 ## AI workflow
 
 Codex read the supplied specification, scoped the domain and APIs, implemented the service using the Ponytail skill (smallest working design, platform features first), and validated behavior with Maven tests. Raw prompt artifact lives in `docs/`.
+
+
+## Screenshots
+
+![API Flow](images/booking-flow.png)
+
