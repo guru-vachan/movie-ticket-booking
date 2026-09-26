@@ -83,5 +83,6 @@ Codex read the supplied specification, scoped the domain and APIs, implemented t
 
 ## Screenshots
 
-![API Flow](images/booking-flow.png)
+![admin Flow](images/admin.png)
+![customer Flow](images/customer.png)
 
